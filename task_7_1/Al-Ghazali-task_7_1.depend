@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1779192467 source:c:\users\sultan\downloads\al-ghazali-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
