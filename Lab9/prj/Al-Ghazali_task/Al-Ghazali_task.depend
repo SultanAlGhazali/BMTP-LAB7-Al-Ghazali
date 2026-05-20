@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1779281383 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab9\prj\al-ghazali_task\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	"ModulesAl-Ghazali.h"
+
+1779280447 c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab9\prj\al-ghazali_task\modulesal-ghazali.h
+
+1779280465 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab9\prj\al-ghazali_task\modulesal-ghazali.cpp
+	"ModulesAl-Ghazali.h"
+	<cmath>
+
