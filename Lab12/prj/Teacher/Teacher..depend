@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1779313631 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab12\prj\teacher.\alghazali.cpp
+	"AlGhazali.h"
+
+1779313615 c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab12\prj\teacher.\alghazali.h
+	<iostream>
+
+1779313656 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab12\prj\teacher.\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"AlGhazali.h"
+
