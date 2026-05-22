@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1779290410 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"ModulesAl-Ghazali.h"
+
+1779290186 c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab10\prj\testdriver\modulesal-ghazali.h
+	<string>
+
+1779291575 source:c:\users\sultan\downloads\bmtp-lab7-al-ghazali\lab10\prj\testdriver\modulesal-ghazali.cpp
+	"ModulesAl-Ghazali.h"
+	<fstream>
+	<iostream>
+
